@@ -60,7 +60,7 @@ namespace dop5
         }
         private void checkWin()
         {
-            string who, message;
+            string who;
             if (b_a1.Text == b_a2.Text && b_a2.Text == b_a3.Text && b_a2.Text != "")
             {
                 who = b_a2.Text;
