@@ -1,4 +1,4 @@
-﻿namespace dop5
+﻿namespace TicTacToe
 {
     partial class Form1
     {

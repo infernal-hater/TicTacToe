@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dop5.Properties
+namespace TicTacToe.Properties
 {
 
 
